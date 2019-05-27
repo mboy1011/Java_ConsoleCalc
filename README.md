@@ -1,11 +1,11 @@
-# Simple Console Calculator using C
+# Simple Console Calculator using Java
 
 ## Installation
 
 > See Requirements Below before proceeding to installation.
 
 1. <code>git clone https://github.com/mboy1011/Java_ConsoleCalc.git</code>
-2. <code>cd Java_ConsoleCalc</code>
+2. <code>cd Java_ConsoleCalc/src/</code>
 3. Compile: <code>javac Calculator.java</code>
 4. Run the Code: <code>java Calculator</code>
 
